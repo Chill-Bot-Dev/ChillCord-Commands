@@ -1,4 +1,4 @@
-<img src="./web/imgs/ChillBotNewTrans.png" height='100px' width='100px' align="left" style="float: left; margin: 0 10px 10px 0;" />
+<img src="https://chillcord.life/images/ChillBotNewTrans.png" height='100px' width='100px' align="left" style="float: left; margin: 0 10px 10px 0;" />
  
 # ChillCord
 
